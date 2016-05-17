@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: de.agentlab.svnstat.SvnStat
+Class-Path: lib/commons-collections-3.2.jar
+  lib/commons-math-1.1.jar
+  lib/jaxen-core.jar
+  lib/jaxen-jdom.jar
+  lib/jCharts-0.7.5.jar
+  lib/jdom.jar
+  lib/saxpath.jar
+
